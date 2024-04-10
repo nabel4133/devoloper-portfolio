@@ -177,5 +177,13 @@ main section{
 }
 .download-cv{
   text-align: center;
-  margin-top: 50px;
-}
+    margin-top: 50px;}
+
+    /* footer styles */
+    
+    footer{
+      margin-top:130px ;
+      padding: ;
+      display: flex;
+      background: rgb(255, 248, 243);
+    }
